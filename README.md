@@ -8,3 +8,4 @@
 - https://codepen.io/andyobrien/pen/Ggzagj PC-laptop
 
 - http://www.sweet-web-design.com/wordpress/how-to-animate-svg-on-scrolling/3171/
+- https://scotch.io/tutorials/animating-more-elements-along-svg-paths-with-javascript-part-2909 cool menu

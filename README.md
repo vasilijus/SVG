@@ -9,4 +9,4 @@
 
 - http://www.sweet-web-design.com/wordpress/how-to-animate-svg-on-scrolling/3171/
 - https://scotch.io/tutorials/animating-more-elements-along-svg-paths-with-javascript-part-2909 cool menu
--
+- Home-3 page at ofiice, multiple animations.

@@ -14,3 +14,4 @@
 ##SVG ANIMATION##
  
 - SVGONWEB https://svgontheweb.com/
+- libraries to try ? https://medium.com/@aniboaz/animate-svg-4fa7dd00e860

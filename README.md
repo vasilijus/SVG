@@ -16,3 +16,5 @@
 - libraries to try ? https://medium.com/@aniboaz/animate-svg-4fa7dd00e860
 
 - Home-3 page at ofiice, multiple animations.
+
+- http://svg.dabbles.info/ = svg animations

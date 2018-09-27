@@ -1,0 +1,19 @@
+﻿html { padding: 50px; }
+
+button {
+    width:  32px;
+    height: 32px;
+    border: 0;
+    margin: 4px;
+    cursor: pointer;
+}
+button.icon-plus { background: url(http://dahlström.net/tmp/sharp-icons/svg-icon-target.svg#plus) no-repeat; }
+button.icon-chart { background: url(http://dahlström.net/tmp/sharp-icons/svg-icon-target.svg#chart) no-repeat; }
+
+
+img {
+    width:  32px;
+    height: 32px;
+    border: 0;
+    margin: 4px;
+}

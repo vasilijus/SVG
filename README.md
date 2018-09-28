@@ -18,3 +18,5 @@
 - Home-3 page at ofiice, multiple animations.
 
 - http://svg.dabbles.info/ = svg animations
+
+- Try to go through Hi's tuts https://www.youtube.com/watch?v=c85GjM7vy5A
